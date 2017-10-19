@@ -88,3 +88,5 @@ Begin
   writeln('Time in seconds: ', DiffSeconds);
 
 End.
+
+//fpc pascal-performance
