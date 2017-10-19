@@ -88,3 +88,5 @@ void calc() {
 
 	//return 0;
 }
+
+//gcc -o c-performance c-performance.c
