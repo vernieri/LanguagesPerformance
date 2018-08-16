@@ -1,9 +1,10 @@
 //
 // C-Performance 
-// Version 0.0.1 
+// Version 1.0 
 // By: Vernieri
 // 19 Octouber 2017
 // GitHub: github.com/vernieri
+// Last Update: 16 August 2018
 //
 
 
