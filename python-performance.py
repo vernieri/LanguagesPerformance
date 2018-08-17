@@ -1,10 +1,10 @@
-//
-// Pascal-Performance 
-// Version 0.0.1 
-// By: Vernieri
-// 16 August 2018
-// GitHub: github.com/vernieri
-//
+#
+# Pascal-Performance 
+# Version 1.0.0
+# By: Vernieri
+# 16 August 2018
+# GitHub: github.com/vernieri
+#
 import time
 import random
 
@@ -57,4 +57,4 @@ def calc():
 
 main()
 
-//python python-performance.py
+#python python-performance.py
