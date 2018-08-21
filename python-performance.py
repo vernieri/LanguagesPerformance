@@ -2,7 +2,7 @@
 # Pascal-Performance 
 # Version 1.0.0
 # By: Vernieri
-# 16 August 2018
+# 21 August 2018
 # GitHub: github.com/vernieri
 #
 import time
