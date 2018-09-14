@@ -16,13 +16,13 @@ public class Javoso {
     public static void main(String[] args) {
         long startTime = System.currentTimeMillis();
         //code
-        gerar();
+        generate();
         calc();
         long stopTime = System.currentTimeMillis();
         System.out.println("Time in miliseconds: " + (stopTime - startTime));
     }
     
-    public static void gerar(){
+    public static void generate(){
         int i;
         Random rand = new Random();
         
